@@ -5,3 +5,35 @@ title: "DEMO"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+# This is a Header!
+## This is a Header!
+### This is a Header!
+#### This is a Header!
+##### This is a Header!
+*italic*
+**bold**
+
+
+* Thing 1
+* Thing 2
+* Thing 3
+Text
+
+
+
+[My Link](https://armandolteanu.github.io/Jan206100/)
+
+
+
+
+$y = a + b$
+
+
+
+```
+libray(knitr)
+pur
+
+````

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DEMO",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#this-is-a-header-1",
+    "href": "index.html#this-is-a-header-1",
+    "title": "DEMO",
+    "section": "This is a Header!",
+    "text": "This is a Header!\n\nThis is a Header!\n\nThis is a Header!\n\nThis is a Header!\nitalic bold\n\nThing 1\nThing 2\nThing 3 Text\n\nMy Link\n\\(y = a + b\\)\nlibray(knitr)\npur"
+  }
+]
